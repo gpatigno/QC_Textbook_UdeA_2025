@@ -1,7 +1,7 @@
 # **Repositorio del Texto-Guía del curso de Computación Cuántica**
 **Facultad de Ingeniería - UdeA 2025**
 
-Espacio donde reposan los diferentes ejemplos y código en Qiskit explicado en dicho Texto-Guía, como complemento al material estudiado en el curso de **Computación Cuántica** ofrecido en el Departamento de Ing. Electrónica de la Universidad de Antioquia (2025).
+Espacio donde reposan los diferentes ejemplos de código en Qiskit (versión 2.0) explicados en dicho Texto-Guía, como complemento adicional al material estudiado en el curso de **Computación Cuántica** ofrecido en el Departamento de Ing. Electrónica de la Universidad de Antioquia (2025).
 
 
 
